@@ -1,0 +1,55 @@
+What is a client-server model?
+
+In computing, a client can be a web browser or desktop application that a person interacts
+with to make requests to computer servers. A server can be services such as Amazon Elastic
+Compute Cloud (Amazon EC2), a type of virtual server.
+
+Deployment models for cloud computing
+
+Cloud-Based Deployment
+ Run all parts of the application in the cloud.
+ Migrate existing applications to the cloud.
+ Design and build new applications in the cloud.
+
+On-Premises Deployment
+ Deploy resources by using virtualization and resource management tools.
+ Increase resource utilization by using application management and virtualization
+technologies.
+
+Hybrid Deployment
+ Connect cloud-based resources to on-premises infrastructure.
+ Integrate cloud-based resources with legacy IT applications.
+
+
+Benefits of cloud computing
+
+Trade upfront expense for variable expense
+Upfront expense refers to data centres, physical servers, and other resources that you
+would need to invest in before using them. Variable expense means you only pay for
+computing resources you consume instead of investing heavily in data centres and servers
+before you know how you’re going to use them.
+
+Stop spending money to run and maintain data centres
+Computing in data centres often requires you to spend more money and time managing
+infrastructure and servers.
+
+Stop guessing capacity
+With cloud computing, you don’t have to predict how much infrastructure capacity you will
+need before deploying an application.
+
+Benefit from massive economies of scale
+By using cloud computing, you can achieve a lower variable cost than you can get on your
+own
+
+Increase speed and agility
+The flexibility of cloud computing makes it easier for you to develop and deploy
+applications. This flexibility provides you with more time to experiment and innovate. When
+computing in data centres, it may take weeks to obtain new resources that you need. By
+comparison, cloud computing enables you to access new resources within minutes.
+
+Go global in minutes
+The global footprint of the AWS Cloud enables you to deploy applications to customers
+around the world quickly, while providing them with low latency. This means that even if
+you are located in a different part of the world than your customers, customers are able to
+access your applications with minimal delays
+
